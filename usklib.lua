@@ -1,4 +1,4 @@
--- Image Function is firstly made by __spyro. After the ui libs with image function probably skidded this source
+-- Image Function is firstly made by ruski. After the ui libs with image function probably skidded this source
 
 local UserInputService = game:GetService("UserInputService")
 local OnPc = not UserInputService.TouchEnabled and UserInputService.KeyboardEnabled and UserInputService.MouseEnabled
